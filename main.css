@@ -4,8 +4,15 @@
 }
 
 .Webpage-running-header {
+	text-align: center;
 	margin-left: auto;
-	font-size: 35px;
+	font-size: 40px;
+	font-family: Times new roman;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	background-color: #181716;
 }
 
 .article {
@@ -27,7 +34,7 @@
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 900px;
+	max-width: 800px;
 	padding-top: 10px;
 	padding-bottom: 8px;
 	padding-left: 0px;
@@ -39,7 +46,7 @@
 	margin-right: auto;
 	margin-left: auto;
 	font-size: 25px;
-	max-width: 900px;
+	max-width: 800px;
 	color: #808080		
 }
 
@@ -56,13 +63,13 @@ img {
 .story-image{
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 1200px;
+	max-width: 700px;
 } 
 
 .story-byline {
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 900px;
+	max-width: 800px;
 }
 
 .byline {
@@ -86,12 +93,12 @@ img {
 	margin-right: auto;
 	margin-left: auto;
 	font-size: 18px;
-	max-width: 900px;
+	max-width: 800px;
 }
 
 
 .viz {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	width: 100%;
+	width: 90%;
 }
